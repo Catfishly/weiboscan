@@ -1,0 +1,11 @@
+[account]
+username=weibo username
+password=weibo password
+names=weibo names
+
+[mysql]
+username=xxx
+password=xxx
+port=3306
+host=localhost
+database=xxxx
